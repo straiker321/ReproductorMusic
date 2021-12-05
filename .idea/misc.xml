@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/erick/AppData/Local/Android/ReprductorMusic/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/ReprductorMusic/app/src/main/res/drawable/ic_baseline_filter_list_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/ReprductorMusic/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/ReprductorMusic/app/src/main/res/drawable/ic_baseline_navigate_next_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/ReprductorMusic/app/src/main/res/drawable/ic_baseline_queue_music_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/ReprductorMusic/app/src/main/res/drawable/ic_baseline_repeat_24.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/ReprductorMusic/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/ReprductorMusic/app/src/main/res/drawable/ic_baseline_skip_previous_24.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/ReprductorMusic/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.3828125" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/ReprductorMusic/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.3828125" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/ReprductorMusic/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/ReprductorMusic/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.3828125" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/ReprductorMusic/app/src/main/res/drawable/options.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/ReprductorMusic/app/src/main/res/drawable/pause.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/ReprductorMusic/app/src/main/res/drawable/play.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/ReprductorMusic/app/src/main/res/drawable/repeat.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/ReprductorMusic/app/src/main/res/drawable/revert.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/ReprductorMusic/app/src/main/res/drawable/stop.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/ReprductorMusic/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/ReprductorMusic/app/src/main/res/layout/login_frag.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/ReprductorMusic/app/src/main/res/layout/music_view.xml" value="0.14" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/ReprductorMusic/app/src/main/res/layout/nav_view.xml" value="0.33" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/ReprductorMusic/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/erick/AppData/Local/Android/ReprductorMusic/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22135416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

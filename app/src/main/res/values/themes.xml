@@ -1,0 +1,37 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ReproductorMusic" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#A12626</item>
+        <item name="colorPrimaryVariant">#434040</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#FFFFFF</item>
+        <item name="colorSecondaryVariant">#FFFFFF</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+    </style>
+    <style name="Widget.ReproductorMusic.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="hintTextAppearance">
+            @style/TextAppearance.ReproductorMusic.TextInputLayout.HintText
+        </item>
+        <item name="hintTextColor">#2F2E32</item>
+        <item name="android:paddingBottom">8dp</item>
+
+        <item name="boxStrokeColor">#343335</item>
+    </style>
+
+    <style name="TextAppearance.ReproductorMusic.TextInputLayout.HintText" parent="TextAppearance.MaterialComponents.Subtitle2">
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+
+    <style name="TextAppearance.ReproductorMusic.Title" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+
+
+
+</resources>

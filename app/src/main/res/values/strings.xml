@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ReproductorMusic</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="next">Siguiente</string>
+    <string name="cancel">Cancelar</string>
+    <string name="error">Por favor ingrese los 6 caracteres validos</string>
+</resources>
